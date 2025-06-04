@@ -1,4 +1,4 @@
-# 无人值守telegram 机器人 频道
+# 无人值守telegram 机器人 频道 VIP 频道 机器人 telegram机器人
 无人值守telegram 机器人 频道
 # 实现的功能清单如下：
 
