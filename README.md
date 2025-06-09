@@ -1,4 +1,4 @@
-# 无人值守Telegram机器人VIP频道管理系统
+# 无人值守  Telegram 机器人 VIP 频道管理系统 Telegram Bot Channel 频道管理 自动发消息 置顶消息 私有频道
 [English doc](./en.md)
 
 
