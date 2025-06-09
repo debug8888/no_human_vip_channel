@@ -1,4 +1,6 @@
 # 无人值守Telegram机器人VIP频道管理系统
+[English doc](./en.md)
+
 
 ## 系统概述
 本系统是一个无人值守的Telegram VIP频道管理系统，支持自动化的会员管理、支付处理。系统分为三个主要模块：Telegram客户端、手机端H5界面和管理后台。
